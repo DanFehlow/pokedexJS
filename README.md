@@ -2,7 +2,7 @@
 Projeto para aperfeiçoamento de HTML, CSS e JavaScript. Para realização deste projeto utilizei a API encontrada no link "https://pokeapi.co/api/v2/pokemon".
 
 Podemos observar que a própria API conforme link mencionado acima possui o número do Pokemon, bem como a descrição do Pokemon em escopo.
-Como padrão, deixei travado o Pokemom com iD número 1 na API, conforme imagem abaixo:
+Como padrão, deixei travado o Pokemon com iD número 1 na API, conforme imagem abaixo:
 
 ![image](https://user-images.githubusercontent.com/86863914/181640885-13bc5e93-7bff-47a2-94fe-464d706fda28.png)
 
